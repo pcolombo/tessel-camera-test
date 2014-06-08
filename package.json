@@ -1,0 +1,10 @@
+{
+  "name": "Tessel-Camera-Test",
+  "version": "0.0.1",
+  "private": true,
+  "author": "pcolombo@gmail.com <Paul Colombo>",
+  "main": "app.js",
+  "dependencies": {
+  	"camera-vc0706": ">=0.1.4"
+  }
+}
